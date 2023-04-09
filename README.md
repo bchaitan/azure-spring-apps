@@ -1,0 +1,1 @@
+echo "# azure-spring-apps" >> README.md
